@@ -1,3 +1,4 @@
+
 # Hey 👋 What's up?
 
 My name is **Syauqi Nurrochman Prabaswara** and I'm an Information Technology student at **Politeknik Negeri Madiun**.
@@ -41,3 +42,6 @@ My name is **Syauqi Nurrochman Prabaswara** and I'm an Information Technology st
 # Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syauqinp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syauqi-prabaswara)
+<p align="left">
+  <a href="mailto:rachmansyauqi6@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
