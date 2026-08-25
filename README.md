@@ -1,4 +1,4 @@
-
+![Foto Syauqi](profile.png)
 # Hey 👋 What's up?
 
 My name is **Syauqi Nurrochman Prabaswara** and I'm an Information Technology student at **Politeknik Negeri Madiun**.
