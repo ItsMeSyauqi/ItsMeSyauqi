@@ -7,7 +7,7 @@
 
 # Hey 👋 What's up?
 
-My name is **Syauqi Nurrochman Prabaswara** and I'm an Information Technology student at **Politeknik Negeri Madiun**.
+My name is **Syauqi Nurrochman Prabaswara** and I'm an Information Technology student at **Politeknik Negeri Madiun** passionate about software development, database management, and system design. I enjoy breaking down complex problems into logical steps and translating them into efficient code.
 
 # About me
 ✨ Creating solutions through code since 2026
