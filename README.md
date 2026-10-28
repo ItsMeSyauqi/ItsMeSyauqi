@@ -71,8 +71,8 @@ My name is **Syauqi Nurrochman Prabaswara** and I'm an Information Technology st
 ###
 
 # 🏆 Certifications & Badges
-- 🛡️ **[Nama Sertifikat Pertama Anda (Misal: Cisco Cybersecurity Essentials)](https://www.credly.com/badges/b8c6bfcc-13b9-4953-b677-4270d8b4b07f/public_url)**
-- 🛡️ **[Nama Sertifikat Kedua Anda](https://www.credly.com/badges/b2dcba88-6edf-45cb-a63d-a6a148f6c9a4/public_url)**
+- 🛡️ **[Cybersecurity Defense Analyst Career Path](https://www.credly.com/badges/b8c6bfcc-13b9-4953-b677-4270d8b4b07f/public_url)**
+- 🛡️ **[Introduction to IoT](https://www.credly.com/badges/b2dcba88-6edf-45cb-a63d-a6a148f6c9a4/public_url)**
 
 ###
 
