@@ -70,7 +70,14 @@ My name is **Syauqi Nurrochman Prabaswara** and I'm an Information Technology st
 
 ###
 
-# Social Media
+# 🏆 Certifications & Badges
+- 🛡️ **[Nama Sertifikat Pertama Anda (Misal: Cisco Cybersecurity Essentials)](https://www.credly.com/badges/b8c6bfcc-13b9-4953-b677-4270d8b4b07f/public_url)**
+- 🛡️ **[Nama Sertifikat Kedua Anda](https://www.credly.com/badges/b2dcba88-6edf-45cb-a63d-a6a148f6c9a4/public_url)**
+
+###
+
+# Social Media & Profiles
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syauqinp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syauqi-nurrochman-prabaswara-a65b6a366/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/syauqi-nurrochman-p)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachmansyauqi6@gmail.com)
