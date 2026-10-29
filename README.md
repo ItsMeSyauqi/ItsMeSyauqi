@@ -14,17 +14,17 @@
 My name is **Syauqi Nurrochman Prabaswara** and I'm an Information Technology student at **Politeknik Negeri Madiun** passionate about software development, database management, and system design. I enjoy breaking down complex problems into logical steps and translating them into efficient code.
 
 # About me
-✨ Creating solutions through code since 2026
+✨ Creating solutions and mapping logic through code since 2026
 
-📚 I'm currently learning Web Development, JavaScript, Backend Development, and Cybersecurity fundamentals.
+📚 I'm currently learning Web Development, Backend Architecture, and Cybersecurity fundamentals
 
-🛠️ I frequently design system architectures and flowcharts using **draw.io** and **Flowgorithm** before writing code.
+🛠️ I frequently design system architectures using **draw.io** and **Flowgorithm** before writing code
 
-🎓 Recently completed Web Programming certification from Dicoding Coding Camp 3.0.
+💡 Always eager to learn new technologies and improve my problem-solving skills
 
-🎯 Goals: Become a Full Stack Developer and contribute to impactful open-source projects.
+🎯 Goals: Become a Full Stack Developer and contribute to impactful open-source projects
 
-📱 Fun fact: I was a developer in a smartphone community, building and maintaining projects for Android users.
+📱 Fun fact: I was a developer in a smartphone community, building and maintaining projects for Android users
 
 ### 📊 GitHub Stats
 
